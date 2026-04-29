@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://lwj-bolg.pages.dev/"
 languageCode = "zh-CN"
-title = "我的博客"
+title = "念头通达"
 theme = "PaperMod"
